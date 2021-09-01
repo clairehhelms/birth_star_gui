@@ -1,3 +1,1 @@
-# hackny-app2
-
-# Thank you for checking out this project! If you clone it, run with command line 'python -m gui'
+## This was my final project for the introductory computer science course at UNC. It is a simple GUI that may be run by the command I 'python -m gui'. This project introduced me to working with third-party libraries, editing and reading CSVs in Python, and the Model-View-Controller design pattern.
